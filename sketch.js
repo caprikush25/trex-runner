@@ -65,7 +65,7 @@ restart.visible = false;
   cloudsGroup = new Group();
   obstaclesGroup = new Group();
   
-  score = 0;
+  score
 }
 
 function draw() {
